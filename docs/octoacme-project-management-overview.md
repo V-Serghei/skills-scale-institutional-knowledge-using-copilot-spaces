@@ -16,9 +16,14 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Product Owner: owns the product vision, strategic direction, and business alignment.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Quality Assurance Lead: owns the testing strategy and ensures quality standards are met.
+- Business Analyst: gathers requirements and bridges business and technical teams.
+- Community Liaison: manages customer feedback and community communications.
 - Stakeholders: provide inputs and approvals.
+
+See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for full role descriptions and [octoacme-roles-interaction-matrix.md](octoacme-roles-interaction-matrix.md) for how these roles interact across the project lifecycle.
 
 ## Key Artifacts
 - Project Charter / One-pager
