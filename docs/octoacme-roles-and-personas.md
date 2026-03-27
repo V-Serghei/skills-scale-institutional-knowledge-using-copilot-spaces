@@ -75,6 +75,98 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Product Owner
+
+### Role Summary
+Owns the product vision, defines strategic direction, and ensures alignment between business goals and technical delivery.
+
+### Responsibilities
+- Define product vision and strategic direction
+- Determine acceptance criteria and success metrics
+- Prioritize features based on business impact and customer value
+- Work closely with stakeholders to ensure alignment
+
+### Goals
+- Maximize business value delivered
+- Ensure product-market alignment
+- Balance stakeholder needs with technical constraints
+
+### Typical Communication
+- Strategic roadmap planning with leadership
+- Feature prioritization and refinement with Product Manager
+- Stakeholder updates and decision documentation
+
+---
+
+## Quality Assurance Lead
+
+### Role Summary
+Owns the testing strategy, ensures quality standards are met, and coordinates quality activities across the project.
+
+### Responsibilities
+- Define testing strategy and quality standards
+- Coordinate test planning and execution
+- Identify and track quality issues and risks
+- Ensure compliance with quality gates
+
+### Goals
+- Deliver reliable, high-quality software
+- Detect issues early and minimize production defects
+- Establish and maintain quality standards
+
+### Typical Communication
+- Quality planning sessions with development team
+- Defect reports and quality metrics
+- Test status updates and quality gates
+
+---
+
+## Business Analyst
+
+### Role Summary
+Bridges business and technical teams by gathering requirements, translating business needs into specifications, and validating solutions.
+
+### Responsibilities
+- Gather and document business requirements
+- Translate requirements into user stories and acceptance criteria
+- Validate solutions with stakeholders
+- Identify and manage scope changes
+
+### Goals
+- Ensure business needs are clearly understood
+- Reduce misalignment between business and technical teams
+- Support effective solution design and delivery
+
+### Typical Communication
+- Requirements workshops and stakeholder interviews
+- User story refinement with development team
+- Solution validation with business stakeholders
+
+---
+
+## Community Liaison
+
+### Role Summary
+Acts as the bridge between the project team and the broader user/customer community, managing feedback and communications.
+
+### Responsibilities
+- Collect and synthesize customer feedback
+- Manage community communication and engagement
+- Escalate community concerns and feature requests
+- Share product updates and improvements with community
+
+### Goals
+- Ensure customer voice is heard in product decisions
+- Build strong community relationships
+- Support product adoption and customer success
+
+### Typical Communication
+- Community forums and feedback channels
+- Customer interviews and feedback sessions
+- Community announcements and updates
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
